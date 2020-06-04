@@ -1,0 +1,20 @@
+package com.atguigu.atcrowdfunding.manager.dao;
+
+import com.atguigu.atcrowdfunding.bean.Permission;
+import java.util.List;
+
+public interface PermissionMapper {
+    int deleteByPrimaryKey(Integer id);
+
+    int insert(Permission record);
+
+    Permission selectByPrimaryKey(Integer id);
+
+    List<Permission> queryAllPermission();
+
+    int updateByPrimaryKey(Permission record);
+
+	List<Integer> queryPermissionidsByRoleid(Integer roleid);
+
+	int addpermission(Permission per);
+}

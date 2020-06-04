@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<typeInfoHistroy>
+<typeInfo handle="=Atcrowdfunding-common/D:\/maven\/org\/apache\/poi\/poi\/3.9\/poi-3.9.jar&lt;org.apache.poi.hpsf(Date.class[Date" modifiers="32" timestamp="1588300703250"/>
+<typeInfo handle="=Atcrowdfunding-bean/C:\/Program Files\/Java\/jdk1.8.0_201\/jre\/lib\/ext\/jfxrt.jar&lt;javafx.scene.chart(PieChart$Data.class[Data" modifiers="25" timestamp="1564147309301"/>
+<typeInfo handle="=Atcrowdfunding-bean/src\/main\/java&lt;com.atguigu.atcrowdfunding.bean{Role.java[Role" modifiers="1" timestamp="1530371281428"/>
+<typeInfo handle="=Atcrowdfunding-manager-impl/src\/main\/java&lt;com.atguigu.atcrowdfunding.manager.controller{RoleController.java[RoleController" modifiers="1" timestamp="1590460113042"/>
+<typeInfo handle="=Atcrowdfunding-manager-impl/src\/main\/java&lt;com.atguigu.atcrowdfunding.manager.controller{UserController.java[UserController" modifiers="1" timestamp="1590581164078"/>
+<typeInfo handle="=Atcrowdfunding-manager-api/src\/main\/java&lt;com.atguigu.atcrowdfunding.manager.service{PermissionService.java[PermissionService" modifiers="513" timestamp="1590316616832"/>
+<typeInfo handle="=Atcrowdfunding-bean/C:\/Program Files\/Java\/jdk1.8.0_201\/jre\/lib\/ext\/zipfs.jar&lt;com.sun.nio.zipfs(ZipFileSystem$END.class[END" modifiers="8" timestamp="1564147309375"/>
+<typeInfo handle="=Atcrowdfunding-main/src\/main\/java&lt;com.atguigu.atcrowdfunding.controller{DispatcherController.java[DispatcherController" modifiers="1" timestamp="1591013349121"/>
+<typeInfo handle="=Atcrowdfunding-common/D:\/maven\/org\/springframework\/spring-web\/4.0.0.RELEASE\/spring-web-4.0.0.RELEASE.jar&lt;org.springframework.web.multipart(MultipartResolver.class[MultipartResolver" modifiers="1537" timestamp="1588300687653"/>
+<typeInfo handle="=Atcrowdfunding-manager-api/src\/main\/java&lt;com.atguigu.atcrowdfunding.manager.service{CerttypeService.java[CerttypeService" modifiers="513" timestamp="1591182615964"/>
+</typeInfoHistroy>
